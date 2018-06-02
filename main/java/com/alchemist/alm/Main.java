@@ -1,8 +1,8 @@
-package com.Alchemist.ALM;
+package com.alchemist.alm;
 
 
-import com.Alchemist.ALM.proxy.CommonProxy;
-import com.Alchemist.ALM.util.Reference;
+import com.alchemist.alm.proxy.CommonProxy;
+import com.alchemist.alm.util.Reference;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
