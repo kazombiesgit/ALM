@@ -1,0 +1,16 @@
+[
+{
+  "modid": "af",
+  "name": "Alm Fluids",
+  "description": "A mod to do with weird fluids.",
+  "version": "0.01",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["The Alchemist"],
+  "credits": "Forge for existing",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
