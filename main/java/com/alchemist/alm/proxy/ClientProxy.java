@@ -1,4 +1,4 @@
-package com.Alchemist.ALM.proxy;
+package com.alchemist.alm.proxy;
 
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;

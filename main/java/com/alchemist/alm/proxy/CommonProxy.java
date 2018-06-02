@@ -1,4 +1,4 @@
-package com.Alchemist.ALM.proxy;
+package com.alchemist.alm.proxy;
 
 import net.minecraft.item.Item;
 
