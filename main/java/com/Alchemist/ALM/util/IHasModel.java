@@ -1,4 +1,4 @@
-package com.Alchemist.ALMFluids.util;
+package com.Alchemist.ALM.util;
 
 public interface IHasModel
 {

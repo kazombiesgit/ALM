@@ -1,4 +1,4 @@
-package com.Alchemist.ALMFluids.util;
+package com.Alchemist.ALM.util;
 
 public class Reference
 {
@@ -6,8 +6,8 @@ public class Reference
     public static final String NAME = "Alm Fluids";
     public static final String VERSION = "0.01";
     public static final String ACCEPTED_VERSIONS = "[1.12.2]";
-    public static final String CLIENT_PROXY_CLASS = "com.Alchemist.ALMFluids.proxy.ClientProxy";
-    public static final String COMMON_PROXY_CLASS = "com.Alchemist.ALMFluids.proxy.CommonProxy";
+    public static final String CLIENT_PROXY_CLASS = "com.Alchemist.ALM.proxy.ClientProxy";
+    public static final String COMMON_PROXY_CLASS = "com.Alchemist.ALM.proxy.CommonProxy";
 
 
 }

@@ -1,7 +1,7 @@
-package com.Alchemist.ALMFluids.util.handlers;
+package com.Alchemist.ALM.util.handlers;
 
-import com.Alchemist.ALMFluids.init.ModItems;
-import com.Alchemist.ALMFluids.util.IHasModel;
+import com.Alchemist.ALM.init.ModItems;
+import com.Alchemist.ALM.util.IHasModel;
 import net.minecraft.item.Item;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.event.RegistryEvent;

@@ -1,9 +1,8 @@
-package com.Alchemist.ALMFluids;
+package com.Alchemist.ALM;
 
 
-import com.Alchemist.ALMFluids.init.ModItems;
-import com.Alchemist.ALMFluids.proxy.CommonProxy;
-import com.Alchemist.ALMFluids.util.Reference;
+import com.Alchemist.ALM.proxy.CommonProxy;
+import com.Alchemist.ALM.util.Reference;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;

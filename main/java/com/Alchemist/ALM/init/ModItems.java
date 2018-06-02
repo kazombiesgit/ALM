@@ -1,6 +1,6 @@
-package com.Alchemist.ALMFluids.init;
+package com.Alchemist.ALM.init;
 
-import com.Alchemist.ALMFluids.items.ItemBase;
+import com.Alchemist.ALM.items.ItemBase;
 import net.minecraft.item.Item;
 
 import java.util.ArrayList;

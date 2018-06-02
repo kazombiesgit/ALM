@@ -1,8 +1,8 @@
-package com.Alchemist.ALMFluids.items;
+package com.Alchemist.ALM.items;
 
-import com.Alchemist.ALMFluids.Main;
-import com.Alchemist.ALMFluids.init.ModItems;
-import com.Alchemist.ALMFluids.util.IHasModel;
+import com.Alchemist.ALM.Main;
+import com.Alchemist.ALM.init.ModItems;
+import com.Alchemist.ALM.util.IHasModel;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 
